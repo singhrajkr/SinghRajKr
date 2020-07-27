@@ -2,7 +2,7 @@
 
 Github Stats | Top Langs
 -------------|----------
-[![Raj's github stats](https://github-readme-stats.vercel.app/api?username=SinghRajKr&show_icons=true&theme=radical)](https://github.com/SinghRajKr/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinghRajKr&show_icons=true&theme=radical)](https://github.com/SinghRajKr/github-readme-stats)
+[![Raj's github stats](https://github-readme-stats.vercel.app/api?username=SinghRajKr&&count_private=true&show_icons=true&theme=radical)](https://github.com/SinghRajKr/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinghRajKr&show_icons=true&theme=radical)](https://github.com/SinghRajKr/github-readme-stats)
 
 
 - 🔭 I’m currently working on Backend Developement with Nest.js
