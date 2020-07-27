@@ -2,7 +2,7 @@
 
 Github Stats | Top Langs
 -------------|----------
-[![Raj's github stats](https://github-readme-stats.vercel.app/api?username=SinghRajKr&show_icons=true&theme=radical)](https://github.com/SinghRajKr/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinghRajKr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Raj's github stats](https://github-readme-stats.vercel.app/api?username=SinghRajKr&show_icons=true&theme=radical)](https://github.com/SinghRajKr/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinghRajKr&show_icons=true&theme=radical)](https://github.com/SinghRajKr/github-readme-stats)
 
 <p align="center"> 
   Visitor count<br>
