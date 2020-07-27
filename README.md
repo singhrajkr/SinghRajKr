@@ -6,7 +6,7 @@ Github Stats | Top Langs
 
 
 - 🔭 I’m currently working on Backend Developement with Nest.js
-- 🌱 I’m currently learning Cypress for E2E Tests.
+- 🌱 I’m currently learning Cypress for E2E Tests and Linux.
 - 👯 I’m looking to collaborate on Cypress, Appium Framework and JavaScript Tech Stack.
 - 🤔 I’m looking for help with Nest.js
 - 💬 Ask me about JavaScript Tech Stack.
