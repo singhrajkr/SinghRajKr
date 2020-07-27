@@ -6,7 +6,7 @@ Github Stats | Top Langs
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/SinghRajKr/count.svg" />
 </p>
 
 <!--
